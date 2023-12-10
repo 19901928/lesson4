@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+body {
+  font-family: 'PT Sans', sans-serif;
+  padding-left: 200px;
+  padding-right: 200px;
+}
+* {
+  box-sizing: border-box;
+}
+ul {
+  list-style: disc;
+  font-size: 16px;
+  line-height: 1.4em;
+  padding-left: 220px;
+  padding-right: 200px;
+  margin-bottom: 2em;
+}
+ul li {
+  margin-bottom: 1em;
+}
+
+h1 {
+  font-size: 30px;
+  font-weight: bold;
+  margin-top: 80px;
+  margin-bottom: 1em;
+  padding-left: 200px;
+  padding-right: 200px
+}
+h2 {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 1em;
+  padding-left: 200px;
+  padding-right: 200px
+}
+h3 {
+  font-size: 30px;
+  font-weight: bold;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  padding-left: 200px;
+  padding-right: 200px
+}
+#dom {
+  width: 1020px;
+  margin-bottom: 2em;
+  opacity: 0%;
+}
+#imgdom {
+  width: auto;
+  height: auto;
+  margin-bottom: 2em;
+  background: url('https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Moscow%2C_Narkomfin_building_in_May_2021_03.jpg/2880px-Moscow%2C_Narkomfin_building_in_May_2021_03.jpg') center no-repeat;
+  background-size: 1280px auto;
+}
+.text {
+  font-size: 16px;
+  line-height: 1.4em;
+  margin-bottom: 2em;
+  padding-left: 200px;
+  padding-right: 200px
+}
+#text1 {
+  color: gray;
+}
+#text2 {
+  font-size: 14px;
+}
+.abzats {
+  width: 1020px;
+  border-left: 4px solid black;
+  margin-left: 176px;
+  margin-bottom: 2em;
+  font-size: 16px;
+  font-style: italic;
+  line-height: 1.4em;
+  padding-left: 20px;
+
+}
